@@ -7,3 +7,5 @@ Step 1=> import Datase.sql file in Xamp server
 Step.2=> Copy all files in Xamp foder
 Step.3=> Open Your Browser and type URL
 Step.4=> Press Enter
+
+Dont forgot to change the path in Files(if changes is required)
